@@ -1,0 +1,2 @@
+# krnv
+sedang percobaan
